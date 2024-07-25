@@ -8,3 +8,4 @@
 <a href="#">
   <img src="https://tryhackme-badges.s3.amazonaws.com/axjp.png" alt="TryHackMe">
 </a>
+ <script src="https://tryhackme.com/badge/1189153"></script>
