@@ -6,5 +6,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alpha-404&theme=chartreuse-dark&layout=compact" />
 </a>
 <a href="#">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/almostxijinping.png" alt="TryHackMe">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/axjp.png" alt="TryHackMe">
 </a>
